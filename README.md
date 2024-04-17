@@ -26,7 +26,7 @@ install  Pygame library using the following command:
 ```
 python[your python version] -m pip install pygame
 ```
-Like
+Like:
 ```
 python3.11 -m pip install pygame
 ```
